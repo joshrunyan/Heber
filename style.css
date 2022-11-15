@@ -78,6 +78,12 @@ body{
     text-align: center;
   }
 
+  .title{
+    text-decoration: underline;
+    font-size: 26pt;
+    text-align: center;
+  }
+
 img{
   display: block;
   margin-left: auto;
